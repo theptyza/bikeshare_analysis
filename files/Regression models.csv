@@ -1,0 +1,4 @@
+Features,Predictor,Train R2 score,Test R2 score,Test MAPE
+Calendar features,Linear,0.756,0.600,28.93
+Calendar features,Polynomial (2),0.811,0.649,24.12
+Calendar features,Polynomial (2) with Ridge,0.799,0.654,24.19

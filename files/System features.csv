@@ -1,0 +1,4 @@
+Features,Train R2 score,Test R2 score,Test MAPE
+"Calendar features, weather features, Average active bikes",0.953,0.841,16.24
+"Calendar features, weather features, EoM fleet",0.951,0.858,15.12
+"Calendar features, weather features, Stations",0.952,0.894,11.88

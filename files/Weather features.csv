@@ -1,0 +1,13 @@
+Features,Train R2 score,Test R2 score,Test MAPE
+"Calendar features, TMAX",0.850,0.735,28.93
+"Calendar features, TMAX, TMIN",0.854,0.739,24.12
+"Calendar features, PRCP",0.873,0.791,24.19
+"Calendar features, PRCP_log",0.878,0.803,17.54
+"Calendar features, SNOW",0.807,0.659,23.98
+"Calendar features, SNOW_log",0.808,0.66,23.99
+"Calendar features, SNWD",0.809,0.659,23.51
+"Calendar features, SNWD_log",0.807,0.659,23.51
+"Calendar features, WT01, WT08",0.835,0.715,21.76
+"Calendar features, AWND",0.815,0.672,23.17
+"Calendar features, TMAX, TMIN, PRCP_log, SNOW_log, SNWD_log",0.933,0.868,13.84
+"Calendar features, TMAX, TMIN, PRCP_log, SNOW_log, SNWD_log, WT01, WT08",0.936,0.867,14.21
